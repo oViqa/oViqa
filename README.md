@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻🇲🇦 Currently learning C.
+👩🏻‍💻🇲🇦 Currently working on a website
 
 
 ## 🌐 Socials:
