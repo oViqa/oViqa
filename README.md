@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻🇲🇦 Currently working on a website
+👩🏻‍💻🇲🇦 
 
 
 ## 🌐 Socials:
