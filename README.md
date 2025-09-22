@@ -29,7 +29,7 @@
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" />
   
- 👩🏻‍💻 &emsp; Ex-Computer Science student at 1337 School passionate about programming<br/><br/>
+ 👩🏻‍💻 &emsp; Ex-Computer Science student at 1337 / 42 School passionate about programming<br/><br/>
  🐍 &emsp; Currently diving deep into Python fundamentals<br/><br/>
  📚 &emsp; Building projects to understand core programming concepts<br/><br/>
 
@@ -55,6 +55,7 @@
 
 ## Featured Projects
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Python_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Python_Projects)
+[![Raihan Website](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Raihan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Raihan)
 [![1337 Libft](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Libft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Libft)
 [![1337 Printf](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Printf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Printf)
 [![1337 Pool 2024](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Pool-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Pool-2024)
