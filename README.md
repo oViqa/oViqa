@@ -55,9 +55,6 @@
 ## Featured Projects
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Python_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Python_Projects)
 [![Raihan Website](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Raihan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Raihan)
-[![1337 Libft](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Libft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Libft)
-[![1337 Printf](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Printf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Printf)
-[![1337 Pool 2024](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=1337-Pool-2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/1337-Pool-2024)
 
 <p align="left">
   <a href="https://github.com/oViqa?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
