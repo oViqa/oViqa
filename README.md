@@ -1,6 +1,3 @@
-<a href="https://visitcount.itsvg.in/api?id=oViqa&icon=0&color=0">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=oViqa&icon=0&color=0&label=Visitors&style=flat" alt="Profile visitor" />
-</a>
 
 <!-- Intro  -->
 <h3 align="center">
