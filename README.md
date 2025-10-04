@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I'm a CS + Engineering student from <b>Morocco</b> 🇲🇦 」
+    「 I'm a CS + Engineering student from <b>Morocco</b>  」
     <br>
     「 Currently learning Python and exploring the fundamentals of programming 」
     <br>
