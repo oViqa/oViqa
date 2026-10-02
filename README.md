@@ -8,9 +8,9 @@
 
 <p align="center"> 
   <samp>
-    「 I'm a CS + Engineering student from <b>Morocco</b>  」
+    「 I'm a Cybersecurity Engineering student from <b>Morocco</b>  」
     <br>
-    「 Currently learning Python and exploring the fundamentals of programming 」
+    「 Currently learning Java & Python Fundamentals 」
     <br>
     <br>
   </samp>
@@ -30,7 +30,7 @@
  <img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" />
   
  👩🏻‍💻 &emsp; Ex-Computer Science student at 1337 / 42 School passionate about programming<br/><br/>
- 🐍 &emsp; Currently diving deep into Python fundamentals<br/><br/>
+ 🐍 &emsp; Currently diving deep into Java<br/><br/>
  📚 &emsp; Building projects to understand core programming concepts<br/><br/>
 
 </p>
@@ -49,10 +49,11 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 <br/>
 
 ## Featured Projects
+
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Python_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Python_Projects)
 [![Raihan Website](https://github-readme-stats.vercel.app/api/pin/?username=oViqa&repo=Raihan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oViqa/Raihan)
 
